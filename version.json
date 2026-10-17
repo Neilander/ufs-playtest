@@ -1,0 +1,12 @@
+{
+  "version": "0.1.0",
+  "map": "roswell-ab-threat-0",
+  "engineFingerprint": "82c9cb2227dfd5a76ebd127c70d9f2be44b3006f46a74ee90aade92664628ee2",
+  "sources": {
+    "standard-engine.js": "526e49fb994285e27539925ac62ce0ac479c52ad0773df98431f2d943926774b",
+    "map-contract.js": "75cea64df13f264c1af3f1cc84f36a32613ef0e5ea932472b5cd0a009930791d",
+    "fixtures/roswell-threat-0-map.js": "c1de890cc07ade635a720c9836f7f54b50fbcc2c3a424a335bed8ffb554da928",
+    "fixtures/roswell-base-ab.js": "c70906a64bf8e3285be6f513802301e3b3aa81633aea583166ce784a21b68ea9",
+    "fixtures/roswell-sky-threat-0.js": "7c354e66d3cfbc598b2058a33fae43ea6cf1183cd759d9ab7cbbda1c289a3289"
+  }
+}
